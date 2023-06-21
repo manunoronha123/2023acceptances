@@ -3,4 +3,4 @@ pandas
 streamlit
 openpyxl
 requests
-streamlit run acceptances2023.py
+streamlit run 2023acceptances.py
