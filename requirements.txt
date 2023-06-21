@@ -3,4 +3,4 @@ pandas
 streamlit
 openpyxl
 requests
-streamlit run earj.py
+streamlit run acceptances2023.py
